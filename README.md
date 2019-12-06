@@ -11,4 +11,4 @@ A Class written for Ruby that provides interaction with a Doge. This was a Quiz 
  
 * **Vagrant**
 
-* **Ruby
+* **Ruby**
